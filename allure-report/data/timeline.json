@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "PC-20191214RDZJ",
+    "children" : [ {
+      "name" : "12032-MainThread",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "248de8a9aa340da6",
+        "parentUid" : "343c6dcbde9c36c99a5e0f605afc0aac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609758687563,
+          "stop" : 1609758687563,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_3",
+        "uid" : "bc6906584fed2ffb",
+        "parentUid" : "343c6dcbde9c36c99a5e0f605afc0aac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609758687567,
+          "stop" : 1609758687567,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2",
+        "uid" : "49a39cc09c4f317b",
+        "parentUid" : "343c6dcbde9c36c99a5e0f605afc0aac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609758687565,
+          "stop" : 1609758687565,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "343c6dcbde9c36c99a5e0f605afc0aac"
+    } ],
+    "uid" : "25d291b5be9133d12d4a347c79e54a40"
+  } ]
+}
